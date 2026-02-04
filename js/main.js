@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===================================
     // 2. CARTE LEAFLET
     // ===================================
-    const VILLE_SLUG = 'colomiers';
-    const VILLE_NOM = 'Colomiers';
-    const GPS_LAT = 43.6107;
-    const GPS_LON = 1.3337;
+    const VILLE_SLUG = 'plaisance-du-touch';
+    const VILLE_NOM = 'Plaisance-du-Touch';
+    const GPS_LAT = 43.5644;
+    const GPS_LON = 1.2961;
     
     const mapElement = document.getElementById(VILLE_SLUG + '-map');
     
